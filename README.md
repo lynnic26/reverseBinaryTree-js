@@ -1,2 +1,2 @@
 # reverseBinaryTree-js
-use js to implement reversing binary tree
+This code is to use js to implement reversing binary tree
