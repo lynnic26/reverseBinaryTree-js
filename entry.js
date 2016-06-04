@@ -1,3 +1,9 @@
+const readlineSync = require('readline-sync');
+
+
+var completeBiTree = readlineSync.question('Please input full binary tree, use # to take place of empty node: ');
+console.log(completeBiTree);
+
 var tree = {
   value: 1,
   left: {
@@ -29,7 +35,7 @@ var reverseBinaryTree = function(node) {
 	var temp = node.right;
 	node.right = node.left;
 	node.left = temp;
-	
+
 	if(node.right) {
 		reverseBinaryTree(node.right);
 	}

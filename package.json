@@ -1,0 +1,29 @@
+{
+  "name": "reversebinarytree",
+  "version": "1.0.0",
+  "description": "a demo to reverse binary tree in javescript",
+  "main": "entry.js",
+  "dependencies": {
+    "readline-sync": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynnic26/reverseBinaryTree-js.git"
+  },
+  "keywords": [
+    "binarytree",
+    "nodejs",
+    "javascript",
+    "algorithm"
+  ],
+  "author": "Lynnic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lynnic26/reverseBinaryTree-js/issues"
+  },
+  "homepage": "https://github.com/lynnic26/reverseBinaryTree-js#readme"
+}
